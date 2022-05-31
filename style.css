@@ -1,0 +1,21 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    margin: 0%
+}
+
+canvas {
+    display: block;
+    background: hsl(222, 25%, 20%)
+
+}
+
+h1 { 
+    position: absolute;
+    top: 5px;
+    font-weight: bolder;
+    left: 40%;
+    margin-right: -50%;
+}
